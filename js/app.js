@@ -358,7 +358,7 @@
   function actualizarInsignia() {
     var cantidad = carrito.cantidadTotal();
     var enlaces = document.querySelectorAll(
-      '.navbar a.icono[href$="carrito_1.html"]'
+      '.navbar a.icono[href$="carrito.html"]'
     );
 
     Array.prototype.forEach.call(enlaces, function (enlace) {
