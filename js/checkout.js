@@ -240,7 +240,7 @@
         }
 
         G.carrito.vaciar();
-        window.location.href = 'muestra_pago.html';
+        window.location.href = 'confirmacion.html';
     });
 
     dibujarResumen();
