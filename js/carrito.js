@@ -1,4 +1,3 @@
-
 (function () {
     'use strict';
     var G = window.GLOX3R;

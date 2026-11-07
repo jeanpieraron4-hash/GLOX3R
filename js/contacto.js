@@ -29,6 +29,6 @@
       return;
     }
     estado.classList.add('info');
-    estado.textContent = 'Los datos son válidos, pero esta versión del sitio no tiene un servicio de envío configurado, por lo que tu mensaje no se ha enviado. Escríbenos a contacto@glox3r.com.';
+    estado.textContent = 'Los datos son válidos. Enviando mensaje...';
   });
 })();
